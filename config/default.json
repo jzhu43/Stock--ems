@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://jason123:jason123@devconnector.wsawt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://jason123:jason123@devconnector.wsawt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "TaroBoba"
 }
