@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://jason123:jason123@devconnector.wsawt.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "TaroBoba",
+  "githubClientId": "685ef1199c53501ee26c",
+  "githubSecret": "63e419ef593cf3bcad6bdf34567f3a7691a0d27e"
+}
